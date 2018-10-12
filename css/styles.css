@@ -21,5 +21,8 @@ img {
     box-shadow: 3px 3px yellow;
 }
 
+#logo{
+    box-shadow: none;
+}
 
 
